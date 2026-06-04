@@ -1,7 +1,9 @@
 # Group-Project-Sem-2-Sec-C
-
-### Team members list 
-# Rojan Ghimire (team captain).
-# Rhythm karki.
-# Sushant karki.
-# Utsav niroula.
+<br>
+<br>
+# Team members list:
+<br>
+### Rojan Ghimire (team captain).
+### Rhythm karki.
+### Sushant karki.
+### Utsav niroula.
